@@ -1,2 +1,1 @@
-# container-networking-docker-kubernetes
-Container Networking Docker Kubernetes.
+# Container Networking Docker Kubernetes.
